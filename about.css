@@ -238,7 +238,7 @@ header {
         position: absolute;
         top:100%;
         right:-100% ;
-        width: 105px;
+        width: 100px;
         height:25vh;
         background:transparent;
         display: flex;
